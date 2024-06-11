@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0 registry.cn-hangzhou.aliyuncs.com/brian_tools/xuxueli/xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.4.0 registry.cn-hangzhou.aliyuncs.com/brian_tools/xxl-job-admin:2.4.0
