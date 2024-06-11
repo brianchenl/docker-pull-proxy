@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/brian_tools/alpine:20240606
+xuxueli/xxl-job-admin:2.4.0 registry.cn-hangzhou.aliyuncs.com/brian_tools/xuxueli/xxl-job-admin:2.4.0
