@@ -1,1 +1,2 @@
-xuxueli/xxl-job-admin:2.4.0 registry.cn-hangzhou.aliyuncs.com/brian_tools/xxl-job-admin:2.4.0
+sonatype/nexus3 registry.cn-hangzhou.aliyuncs.com/brian_tools/nexus3
+gogs/gogs registry.cn-hangzhou.aliyuncs.com/brian_tools/gogs
