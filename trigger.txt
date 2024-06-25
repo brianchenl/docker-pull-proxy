@@ -1,2 +1,3 @@
 sonatype/nexus3 registry.cn-hangzhou.aliyuncs.com/brian_tools/nexus3
 gogs/gogs registry.cn-hangzhou.aliyuncs.com/brian_tools/gogs
+jenkins/jenkins:lts registry.cn-hangzhou.aliyuncs.com/brian_tools/jenkins:lts
