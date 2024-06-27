@@ -2,3 +2,4 @@ sonatype/nexus3 registry.cn-hangzhou.aliyuncs.com/brian_tools/nexus3
 gogs/gogs registry.cn-hangzhou.aliyuncs.com/brian_tools/gogs
 jenkins/jenkins:2.346.1 registry.cn-hangzhou.aliyuncs.com/brian_tools/jenkins:2.346.1
 jenkinsci/blueocean registry.cn-hangzhou.aliyuncs.com/brian_tools/blueocean:24.6.26
+jenkinszh/jenkins-zh:2.396 registry.cn-hangzhou.aliyuncs.com/brian_tools/jenkins-zh:2.396
