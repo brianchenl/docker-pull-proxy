@@ -5,3 +5,4 @@ jenkinsci/blueocean registry.cn-hangzhou.aliyuncs.com/brian_tools/blueocean:24.6
 jenkinszh/jenkins-zh:2.396 registry.cn-hangzhou.aliyuncs.com/brian_tools/jenkins-zh:2.396
 weejewel/wg-easy:7-nightly registry.cn-hangzhou.aliyuncs.com/brian_tools/wg-easy:7-nightly
 mintplexlabs/anythingllm registry.cn-hangzhou.aliyuncs.com/brian_tools/anythingllm:08042019
+nginx:1.16.1 registry.cn-hangzhou.aliyuncs.com/brian_tools/nginx:1.16.1.09251341
