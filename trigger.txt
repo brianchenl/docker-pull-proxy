@@ -7,3 +7,4 @@ weejewel/wg-easy:7-nightly registry.cn-hangzhou.aliyuncs.com/brian_tools/wg-easy
 mintplexlabs/anythingllm registry.cn-hangzhou.aliyuncs.com/brian_tools/anythingllm:08042019
 nginx:1.16.1 registry.cn-hangzhou.aliyuncs.com/brian_tools/nginx:1.16.1.09251341
 ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/brian_tools/ubuntu:22.04.09261753
+ghcr.io/graalvm/graalvm-community:17 registry.cn-hangzhou.aliyuncs.com/brian_tools/graalvm-community:17。09261908
