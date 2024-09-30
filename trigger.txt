@@ -8,3 +8,4 @@ mintplexlabs/anythingllm registry.cn-hangzhou.aliyuncs.com/brian_tools/anythingl
 nginx:1.16.1 registry.cn-hangzhou.aliyuncs.com/brian_tools/nginx:1.16.1.09251341
 ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/brian_tools/ubuntu:22.04.09261753
 ghcr.io/graalvm/graalvm-community:17@sha256:eac1619df619a6ac24333d3be635d10a217b1bb3aa04ca1485b0e29a011d460a registry.cn-hangzhou.aliyuncs.com/brian_tools/graalvm-community:17.09261908
+docker.io/paketobuildpacks/builder-jammy-tiny:latest registry.cn-hangzhou.aliyuncs.com/brian_tools/builder-jammy-tiny:09301339
